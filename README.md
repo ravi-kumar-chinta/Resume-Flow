@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://your-live-demo-link.com">
-    <img src="assets/preview.png" alt="ResumeFlow Preview" width="800">
+    <img src="src\app\screenshot.png" alt="ResumeFlow Preview" width="800">
   </a>
 </p>
 

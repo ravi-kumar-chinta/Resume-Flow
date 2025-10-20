@@ -14,25 +14,19 @@
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
-### **AI Resume Critique**
-Receive line-by-line insights on your resume. Our AI evaluates content, structure, and impact, offering actionable suggestions to make your resume stand out.
+- **AI Resume Critique:** Receive line-by-line insights on your resume. Our AI evaluates content, structure, and impact, offering actionable suggestions to make your resume stand out.
 
-### **ATS Readability Score**
-Check how well your resume is read by Applicant Tracking Systems (ATS). Get an AI-generated score and actionable suggestions to improve formatting and ensure your resume passes automated screening.
+- **ATS Readability Score** Check how well your resume is read by Applicant Tracking Systems (ATS). Get an AI-generated score and actionable suggestions to improve formatting and ensure your resume passes automated screening.
 
-### **Job Match Analysis**
-Paste a job description to see how well your resume aligns. The AI evaluates keyword relevance, highlights missing skills, and gives actionable tips to boost your match score.
+- **Job Match Analysis** Paste a job description to see how well your resume aligns. The AI evaluates keyword relevance, highlights missing skills, and gives actionable tips to boost your match score.
 
-### **AI Cover Letter Generator**
-Automatically generate a compelling cover letter tailored to the job description and your resume, saving you time and effort.
+- **AI Cover Letter Generator** Automatically generate a compelling cover letter tailored to the job description and your resume, saving you time and effort.
 
-### **Resume Roast**
-Think your resume is perfect? Think again. Our AI delivers a lighthearted roast, pointing out awkward phrasing, overused buzzwords, and quirky mistakes — all in good fun, with tips to actually improve it.
+- **Resume Roast** Think your resume is perfect? Think again. Our AI delivers a lighthearted roast, pointing out awkward phrasing, overused buzzwords, and quirky mistakes — all in good fun, with tips to actually improve it.
 
-### **AI Suggestions**
-Receive personalized, actionable recommendations to improve your resume. From phrasing and formatting to keyword optimization, the AI helps your resume stand out to recruiters and ATS systems.
+- **AI Suggestions** Receive personalized, actionable recommendations to improve your resume. From phrasing and formatting to keyword optimization, the AI helps your resume stand out to recruiters and ATS systems.
 
 ---
 
